@@ -10,7 +10,6 @@
 .idea
 
 **/python.iml
-../leetcodetrain-java/target
 **/.mvn
 **/mvnw
 **/mvnw.cmd
